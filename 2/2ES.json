@@ -1,0 +1,18 @@
+[
+    {
+      "Title": "Product 1",
+      "Category": "cloths",
+      "Price": 250
+    },
+    {
+      "Title": "Product 2",
+      "Category": "cloths",
+      "Price": 350
+    },
+    {
+      "Title": "Product 3",
+      "Category": "electronics",
+      "Price": 500
+    }
+  ]
+  
